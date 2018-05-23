@@ -4,12 +4,13 @@ Public Repository for the MD Coins smart contracts
 
 
 ## Contracts
-The Led Tokens are based on the `StandardToken` and `MintableToken` ERC20 contracts. Additional functionality is heavily inspired by the `MinimeToken` (https://github.com/Giveth/minime/blob/master/contracts/MiniMeToken.sol)
+The MD Coins are based on the `StandardToken` and `MintableToken` ERC20 contracts. Additional functionality is heavily inspired 
+by the `MinimeToken` (https://github.com/Giveth/minime/blob/master/contracts/MiniMeToken.sol)
 
 ## How to use the tokensale contract
 The following contracts will be hosted on this repository.
 - The tokensale contract
-- The Led token contract
+- The MD Coin contract
 - The token factory contract
 - Several other interface contracts
 
